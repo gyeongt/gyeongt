@@ -77,5 +77,5 @@
 
 <!-- solved.ac 프로필 -->
 <p align='center'>
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bgt753)
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bgt753)](https://solved.ac/bgt753)
 </p>
