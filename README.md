@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=8E2DE2,4A00E0,00F260&height=240&section=header&text=Welcome+to+Gyeongt%27s+GitHub&fontSize=52&fontAlignY=45&fontColor=FFFFFF&animation=wave&fontAlign=50"/>
 </p>
 
-## 🙋 About Me
+## 👨‍💻 About Me
 - 🎓 Computer Science Engineering 전공
 - 🔭 현재: Spring + Kafka + Docker + AWS 기반 백엔드 개발
 - 🧑‍💻 관심사: 분산 시스템, DevOps, AI 모델 경량화
