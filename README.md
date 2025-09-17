@@ -1,7 +1,6 @@
-
 <!-- header -->
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=8E2DE2,4A00E0,00F260&height=240&section=header&text=Welcome+to+Gyeongt's+GitHub&fontSize=52&fontAlignY=45&fontColor=FFFFFF&animation=wave&fontAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=8E2DE2,4A00E0,00F260&height=240&section=header&text=Welcome+to+Gyeongt%27s+GitHub&fontSize=52&fontAlignY=45&fontColor=FFFFFF&animation=wave&fontAlign=50"/>
 </p>
 
 ## 🙋 About Me
@@ -68,13 +67,20 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>  
 </p>
 
+<!-- GitHub Stats -->
 <p align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gyeongt&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyeongt&layout=compact&theme=radical)
-  ![GitHub Streak](https://streak-stats.demolab.com?user=gyeongt&theme=radical&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=gyeongt&show_icons=true&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyeongt&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gyeongt&theme=radical&hide_border=true" />
+</p>
+
+<!-- Solved.ac -->
 <p align="center">
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bgt753)](https://solved.ac/bgt753)
 </p>
-
