@@ -79,6 +79,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gyeongt&theme=radical&hide_border=true" />
 </p>
-<p align="center">
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bgt753)](https://solved.ac/bgt753)
-</p>
+
+<div align="center">
+  <a href="https://solved.ac/bgt753">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=bgt753" alt="Solved.ac 프로필"/>
+  </a>
+</div>
+
