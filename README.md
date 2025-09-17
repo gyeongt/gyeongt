@@ -79,5 +79,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gyeongt&theme=radical&hide_border=true" />
 </p>
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bgt753)](https://solved.ac/bgt753)
+<p align="center">
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bgt753)](https://solved.ac/bgt753)
+</p>
