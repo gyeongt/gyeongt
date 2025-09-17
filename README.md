@@ -68,14 +68,13 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>  
 </p>
 
-<!-- GitHub Stats -->
-<p align='center'>
+<p align="center">
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gyeongt&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyeongt&layout=compact&theme=radical)
   ![GitHub Streak](https://streak-stats.demolab.com?user=gyeongt&theme=radical&hide_border=true)
 </p>
 
-<!-- solved.ac 프로필 -->
-<p align='center'>
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bgt753)](https://solved.ac/bgt753)
+<p align="center">
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bgt753)](https://solved.ac/bgt753)
 </p>
+
