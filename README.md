@@ -1,13 +1,11 @@
 
 <!-- header -->
 <p align='center'>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=8E2DE2,4A00E0,00F260&height=240&section=header&text=Welcome+to+Gyeongt's+GitHub&fontSize=52&fontAlignY=45&fontColor=FFFFFF&animation=wave&fontAlign=50"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=8E2DE2,4A00E0,00F260&height=240&section=header&text=Welcome+to+Gyeongt's+GitHub&fontSize=52&fontAlignY=45&fontColor=FFFFFF&animation=wave&fontAlign=50"/>
 </p>
 
 ## 🙋 About Me
-- 🎓 Computer Science Engineering전공
+- 🎓 Computer Science Engineering 전공
 - 🔭 현재: Spring + Kafka + Docker + AWS 기반 백엔드 개발
 - 🧑‍💻 관심사: 분산 시스템, DevOps, AI 모델 경량화
 - 🎯 목표: 대규모 트래픽도 버티는 서비스 구축
@@ -27,8 +25,17 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+</p>
+
+## 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 </p>
 
 ## ⚙️ DevOps & Infra
@@ -47,16 +54,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 </p>
 
-## 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-</p>
-
-
 ## 🔧 Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -66,13 +63,19 @@
 
 ## 💻 IDE
 <p>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>  
 </p>
 
+<!-- GitHub Stats -->
+<p align='center'>
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gyeongt&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyeongt&layout=compact&theme=radical)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=gyeongt&theme=radical&hide_border=true)
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gyeongt&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyeongt&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=gyeongt&theme=radical&hide_border=true)
+<!-- solved.ac 프로필 -->
+<p align='center'>
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bgt753)
+</p>
