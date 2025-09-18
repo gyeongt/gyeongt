@@ -86,3 +86,10 @@
   </a>
 </div>
 
+## 📄 Publications
+<p align="center">
+  <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003205102">
+    <img src="https://img.shields.io/badge/딥러닝%20기반%20사진%20분석을%20활용한%20실종%20반려견%20찾기%20시스템-View%20Paper-green?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+</p>
+
