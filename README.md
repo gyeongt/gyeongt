@@ -93,7 +93,7 @@
   </a>
   <br>
   <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003299920">
-    <img src="https://img.shields.io/badge/Grad--CAM++%20기반%20보조%20히트맵%20입력을%20활용한%20경량%20얼굴%20인식%20모델의%20강건성%20향상-View%20Paper-green?style=for-the badge&logo=readthedocs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Grad--CAM++%20기반%20보조%20히트맵%20입력을%20활용한%20경량%20얼굴%20인식%20모델의%20강건성%20향상-View%20Paper-green?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
 
